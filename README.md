@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @moazatef
 - 👀 I’m interested in ... Computer science 
-- 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ..  Twitter:@MoazAtef07
 
