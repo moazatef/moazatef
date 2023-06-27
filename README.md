@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+developer+;Just+code+It)](https://git.io/typing-svg)"></a>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+developer+;Just+code+It)"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer 
