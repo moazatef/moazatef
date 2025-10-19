@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing iOS apps at Banque Misr <br>👯 I’m looking to collaborate onExciting mobile app projects, particularly those involving iOS or cross-platform development using Flutter<br>🤝 I’m looking for help with Advanced Flutter techniques<br>🌱 I’m currently learning Flutter to enhance my cross-platform<br>💬 Ask me about iOS development, Flutter, mobile app design patterns, or anything related to creating seamless and user-friendly mobile experiences.<br>⚡ Fun fact  I’m a coffee enthusiast
+🔭 I’m currently working on **Java Backend Development**  
+👯 I’m looking to collaborate on **exciting Java backend projects**  
+🤝 I’m looking for help with **advanced Java techniques**  
+💬 Ask me about **Java, Spring Boot, REST APIs, and backend architecture**  
+⚡ Fun fact: I’m a **coffee enthusiast** ☕
+
 
 
 ## 🌐 Socials:
